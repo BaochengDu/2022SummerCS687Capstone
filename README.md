@@ -1,5 +1,5 @@
 # 2022SummerCS687Capstone
-Capstone Project Code 
+Capstone Project Code   
 pl_main.py --main function of the game   
 pl_model.py -- game object file  
 q_table.json --training model for the game  
